@@ -37,8 +37,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   border-radius: 3px;
   right: 15px;
   bottom: 15px;
-  background: #70b9b0;
-  color: #fff;
+  background: #153D63;
+  color: #FFFFFF;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
 }
