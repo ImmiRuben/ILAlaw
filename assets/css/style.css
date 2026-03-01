@@ -51,8 +51,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .back-to-top:hover {
-  color: #fff;
-  background: #8bc6bf;
+  color: #153D63;
+  background: #FFFFFF;
   transition: background 0.2s ease-in-out;
 }
 
