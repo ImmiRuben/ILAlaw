@@ -122,7 +122,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #153D63;;
+  color: #153D63;
   padding: 10px 15px;
   transition: 0.3s;
   font-size: 14px;
@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #9cd5ce;
+  color: #153D63;
   text-decoration: none;
 }
 
